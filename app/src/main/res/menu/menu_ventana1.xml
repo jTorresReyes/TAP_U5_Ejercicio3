@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="ENVIAR SMS" android:id="@+id/enviarsms"/>
+    <item android:title="BORRAR ITEM" android:id="@+id/borraritem"/>
+    <item android:title="ACERCA DE" android:id="@+id/acerca"/>
+    <item android:title="SALIR" android:id="@+id/salir"/>
+</menu>
